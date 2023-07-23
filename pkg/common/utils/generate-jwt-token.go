@@ -1,17 +1,20 @@
 package utils
 
 import (
+	"api/pkg/common/config"
 	"github.com/dgrijalva/jwt-go"
 	"time"
 )
 
-func GenerateJWTToken(username string) (string, error) {
-	var jwtSecret = []byte("g78asdg78ags87g89hhasdj")
+func GenerateJWTToken(id int32) (string, error) {
+	c, err := config.LoadConfig()
+	var jwtSecret = []byte(c.JWTSecret)
 
 	token := jwt.New(jwt.SigningMethodHS256)
 
 	claims := token.Claims.(jwt.MapClaims)
-	claims["username"] = username
+
+	claims["id"] = id
 
 	claims["exp"] = time.Now().Add(time.Hour * 24).Unix()
 

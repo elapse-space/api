@@ -13,14 +13,18 @@ func MiddleWare() fiber.Handler {
 	return func(c *fiber.Ctx) error {
 		authHeader := c.Get("Authorization")
 		if authHeader == "" {
-			c.Status(fiber.StatusUnauthorized)
-			return c.JSON(utils.BaseResponse{Data: nil, Message: "Unauthorized", Success: false})
+			return c.Status(fiber.StatusUnauthorized).JSON(utils.BaseResponse{
+				Data:    nil,
+				Message: "Unauthorized",
+			})
 		}
 
 		tokenString := authHeader[7:]
 		if tokenString == "" {
-			c.Status(fiber.StatusUnauthorized)
-			return c.JSON(utils.BaseResponse{Data: nil, Message: "Unauthorized", Success: false})
+			return c.Status(fiber.StatusUnauthorized).JSON(utils.BaseResponse{
+				Data:    nil,
+				Message: "Unauthorized",
+			})
 		}
 
 		token, err := jwt.ParseWithClaims(tokenString, &model.Claims{}, func(token *jwt.Token) (interface{}, error) {
@@ -29,22 +33,30 @@ func MiddleWare() fiber.Handler {
 
 		if err != nil {
 			if err == jwt.ErrSignatureInvalid {
-				c.Status(fiber.StatusUnauthorized)
-				return c.JSON(utils.BaseResponse{Data: nil, Message: "Unauthorized", Success: false})
+				return c.Status(fiber.StatusUnauthorized).JSON(utils.BaseResponse{
+					Data:    nil,
+					Message: "Unauthorized",
+				})
 			}
-			c.Status(fiber.StatusBadRequest)
-			return c.JSON(utils.BaseResponse{Data: nil, Message: "Bad Request", Success: false})
+			return c.Status(fiber.StatusBadRequest).JSON(utils.BaseResponse{
+				Data:    nil,
+				Message: "Bad Request",
+			})
 		}
 
 		if !token.Valid {
-			c.Status(fiber.StatusUnauthorized)
-			return c.JSON(utils.BaseResponse{Data: nil, Message: "Unauthorized", Success: false})
+			return c.Status(fiber.StatusUnauthorized).JSON(utils.BaseResponse{
+				Data:    nil,
+				Message: "Unauthorized",
+			})
 		}
 
 		claims, ok := token.Claims.(*model.Claims)
 		if !ok {
-			c.Status(fiber.StatusInternalServerError)
-			return c.JSON(utils.BaseResponse{Data: nil, Message: "Internal Server Error", Success: false})
+			return c.Status(fiber.StatusInternalServerError).JSON(utils.BaseResponse{
+				Data:    nil,
+				Message: "Internal Server Error",
+			})
 		}
 		c.Locals("user", claims)
 

@@ -17,7 +17,7 @@ func Controller(app *fiber.App, db *gorm.DB) {
 	}
 
 	routes := app.Group("/user")
-	routes.Get("/totally", auth.MiddleWare(), h.GetUsersAll)
+	routes.Get("/totally", auth.MiddleWare(), h.GetUsersTotally)
 	routes.Get("/me", auth.MiddleWare(), h.GetUserMe)
 
 	utils.Logger.Info("Routes registered successfully")

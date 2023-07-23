@@ -1,7 +1,7 @@
 package models
 
 type Order struct {
-	Id          int     `json:"id" gorm:"primaryKey"`
+	Id          int32   `json:"id" gorm:"primaryKey"`
 	UserID      int     `json:"userID"`
 	OrderNumber string  `json:"orderNumber"`
 	Date        string  `json:"date"`
