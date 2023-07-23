@@ -33,5 +33,5 @@ func (h handler) Login(c *fiber.Ctx) error {
 	}
 
 	c.Status(fiber.StatusCreated)
-	return c.JSON(utils.BaseResponse{Data: fiber.Map{"access_token": token}, Message: "User successfully login", Success: true})
+	return c.JSON(utils.BaseResponse{Data: fiber.Map{"user": fiber.Map{"id": &user.Id, "username": &user.Username}, "access_token": token}, Message: "User successfully login", Success: true})
 }
