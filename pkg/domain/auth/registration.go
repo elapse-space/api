@@ -42,5 +42,5 @@ func (h handler) Registration(c *fiber.Ctx) error {
 	token, _ := utils.GenerateJWTToken(newUser.Username)
 
 	c.Status(fiber.StatusCreated)
-	return c.JSON(utils.BaseResponse{Data: fiber.Map{"access_token": token}, Message: "User successfully registered", Success: true})
+	return c.JSON(utils.BaseResponse{Data: fiber.Map{"user": fiber.Map{"id": &newUser.Id, "username": &newUser.Username}, "access_token": token}, Message: "User successfully registered", Success: true})
 }
