@@ -6,7 +6,7 @@ import (
 )
 
 func GenerateJWTToken(username string) (string, error) {
-	var jwtSecret = []byte("890dasyhdas90dh9ash9dha0s9")
+	var jwtSecret = []byte("g78asdg78ags87g89hhasdj")
 
 	token := jwt.New(jwt.SigningMethodHS256)
 

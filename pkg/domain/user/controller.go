@@ -2,6 +2,7 @@ package user
 
 import (
 	"api/pkg/common/utils"
+	"api/pkg/domain/auth"
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"
 )
@@ -16,7 +17,8 @@ func Controller(app *fiber.App, db *gorm.DB) {
 	}
 
 	routes := app.Group("/user")
-	routes.Get("/totally", h.GetUsersAll)
+	routes.Get("/totally", auth.MiddleWare(), h.GetUsersAll)
+	routes.Get("/me", auth.MiddleWare(), h.GetUserMe)
 
 	utils.Logger.Info("Routes registered successfully")
 }
