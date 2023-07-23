@@ -1,0 +1,237 @@
+{"level":"info","ts":"2023-07-23T03:54:23.639+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T03:54:23.645+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T03:54:29.068+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T03:54:29.068+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T03:54:29.069+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T03:55:16.013+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T03:55:16.019+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T03:55:21.434+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T03:55:21.434+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T03:55:21.434+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T03:57:40.040+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T03:57:40.049+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T03:57:45.455+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T03:57:45.455+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T03:57:45.455+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:00:20.280+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:00:20.286+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:00:25.701+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:00:25.701+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:00:25.701+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:01:12.297+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:01:12.306+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:01:17.707+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:01:17.707+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:01:17.707+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:02:18.868+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:02:18.874+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:02:24.299+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:02:24.299+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:02:24.300+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:03:52.200+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:03:52.206+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:03:57.625+0300","caller":"elapse/main.go:23","msg":"failed to connect to `host=postgres user=postgres database=elapse`: hostname resolving error (lookup postgres: no such host)","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:03:57.625+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:03:57.625+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:05:06.119+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:05:06.125+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:05:06.230+0300","caller":"elapse/main.go:23","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:05:06.230+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:05:06.230+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:05:35.915+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:05:35.921+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:05:35.947+0300","caller":"elapse/main.go:23","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:05:35.947+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:05:35.947+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:05:57.072+0300","caller":"elapse/main.go:14","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:05:57.079+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:05:57.107+0300","caller":"elapse/main.go:23","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:23\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:05:57.108+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:05:57.108+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:07:51.233+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:07:51.240+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:07:51.269+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:08:07.577+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:08:07.583+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:08:07.614+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:08:44.546+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:08:44.553+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:08:44.580+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:09:38.181+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:09:38.188+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:09:38.214+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:09:38.214+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:09:38.214+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:10:23.485+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:10:23.491+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:10:23.518+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:10:23.518+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:10:23.518+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:10:51.353+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:10:51.358+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:10:51.385+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:10:51.386+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:10:51.386+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:13:59.374+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:13:59.380+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:13:59.407+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"error","ts":"2023-07-23T04:13:59.409+0300","caller":"elapse/main.go:29","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:29\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:14:48.789+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:14:48.797+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"error","ts":"2023-07-23T04:14:48.823+0300","caller":"elapse/main.go:24","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:24\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"error","ts":"2023-07-23T04:14:48.825+0300","caller":"elapse/main.go:29","msg":"unsupported data type: &[]","stacktrace":"main.main\n\tC:/Users/euorp/Documents/elapse/api/cmd/elapse/main.go:29\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:250"}
+{"level":"info","ts":"2023-07-23T04:16:33.398+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:16:33.404+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:16:33.486+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:16:33.564+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:16:33.565+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:17:13.758+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:17:13.764+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:17:13.857+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:17:13.898+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:17:13.898+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:20:06.400+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:20:06.406+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:20:06.503+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:20:06.547+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:20:06.547+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:23:59.459+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:23:59.466+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:23:59.569+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:23:59.615+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:23:59.615+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:24:33.112+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:24:33.118+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:24:33.209+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:24:33.250+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:24:33.250+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:25:42.880+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:25:42.886+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:25:42.982+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:25:43.023+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:25:43.024+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:37:58.037+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:37:58.043+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:37:58.163+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:37:58.206+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:37:58.206+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:40:27.486+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:40:27.493+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:40:27.606+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:40:27.648+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:40:27.649+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:41:30.946+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:41:30.953+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:41:31.072+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:41:31.118+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:41:31.118+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:43:07.751+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:43:07.757+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:43:07.857+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:43:07.899+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:43:07.899+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:46:22.716+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:46:22.723+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:46:22.840+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:46:22.887+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:46:22.887+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:47:24.426+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:47:24.432+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:47:24.533+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:47:24.579+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:47:24.579+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:51:38.498+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:51:38.504+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:51:38.627+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:51:38.675+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:51:38.675+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:53:08.491+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:53:08.498+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:53:08.606+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:53:08.649+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:53:08.650+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:53:29.193+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:53:29.199+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:53:29.307+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:53:29.353+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:53:29.353+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:53:46.830+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:53:46.837+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:53:46.943+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:53:46.989+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:53:46.989+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:55:53.508+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:55:53.515+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:55:53.622+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:55:53.667+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:55:53.668+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:56:25.013+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:56:25.018+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:56:25.125+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:56:25.166+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:56:25.167+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:57:51.827+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:57:51.833+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:57:51.942+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:57:51.989+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:57:51.989+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:59:13.649+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T04:59:13.656+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T04:59:13.767+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T04:59:13.816+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T04:59:13.816+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:00:40.759+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:00:40.765+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:00:40.867+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:00:40.908+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:00:40.909+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:02:15.235+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:02:15.242+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:02:15.335+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:02:15.376+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:02:15.377+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:04:24.537+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:04:24.543+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:04:24.645+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:04:24.687+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:04:24.687+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:07:02.742+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:07:02.749+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:07:02.852+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:07:02.894+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:07:02.895+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:07:43.816+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:07:43.822+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:07:43.915+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:07:43.956+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:07:43.957+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:08:58.948+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:08:58.955+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:08:59.064+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:08:59.118+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:08:59.118+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:12:30.895+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:12:30.901+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:12:30.994+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:12:31.038+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:12:31.038+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:21:11.103+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:21:11.110+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:21:11.204+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:21:11.246+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:21:11.247+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:23:10.523+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:23:10.529+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:23:10.634+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:23:10.677+0300","caller":"auth/controller.go:23","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:23:10.678+0300","caller":"user/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:27:43.819+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:27:43.826+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:27:43.969+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:27:44.018+0300","caller":"auth/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:27:44.018+0300","caller":"user/controller.go:21","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:30:56.974+0300","caller":"elapse/main.go:15","msg":"Server started"}
+{"level":"info","ts":"2023-07-23T05:30:56.980+0300","caller":"config/config.go:20","msg":"Config loaded successfully"}
+{"level":"info","ts":"2023-07-23T05:30:57.105+0300","caller":"db/db.go:15","msg":"DB initiated successfully"}
+{"level":"info","ts":"2023-07-23T05:30:57.149+0300","caller":"auth/controller.go:22","msg":"Routes registered successfully"}
+{"level":"info","ts":"2023-07-23T05:30:57.149+0300","caller":"user/controller.go:21","msg":"Routes registered successfully"}
